@@ -1,0 +1,10 @@
+('penguinQuest\\dist\\penguinQuest.exe',
+ False,
+ False,
+ 'c:\\users\\billy\\desktop\\python\\pq\\penguin.ico',
+ None,
+ [],
+ None,
+ True,
+ 0,
+ 1361740787L)
